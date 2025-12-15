@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="838d4272-c918-4ed7-afe7-fbc84f4419bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/backend/settings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/backend/settings/local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Button/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Button/Button.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/CallToAction.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/FeaturesSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/HeroSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Layout/Layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Layout/Layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/LoadingIndicator.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Navbar/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/ProtectedRoute.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/StatsSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Dashboard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/NotFound.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Profile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/Settings.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/Form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/LoadingIndicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/typography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles/variables.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="36tbGvJBxWFn18TSkIbTVvarmau" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\practice\React_Tutorial\frontend\src\components" />
+      <recent name="D:\practice\React_Tutorial\frontend\src\styles" />
+      <recent name="D:\practice\React_Tutorial\frontend\src\pages" />
+      <recent name="D:\practice\React_Tutorial\backend\backend\settings" />
+      <recent name="D:\practice\React_Tutorial\backend" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="838d4272-c918-4ed7-afe7-fbc84f4419bc" name="Changes" comment="" />
+      <created>1765828722749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765828722749</updated>
+    </task>
+    <servers />
+  </component>
+</project>

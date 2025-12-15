@@ -1,0 +1,26 @@
+// components/Layout/Layout.jsx
+import React from 'react'
+import { Outlet } from 'react-router-dom'
+import Navbar from '../Navbar/Navbar'
+import './Layout.css'
+
+const Layout = () => {
+  return (
+    <div className="layout">
+      {/* Навбар на всех страницах внутри Layout */}
+      <Navbar />
+
+      {/* Основной контент страницы */}
+      <main className="layout-content">
+        <Outlet /> {/* Здесь будут рендериться страницы */}
+      </main>
+
+      {/* Футер (опционально) */}
+      <footer className="layout-footer">
+        <p>© 2024 MyApp. Все права защищены.</p>
+      </footer>
+    </div>
+  )
+}
+
+export default Layout

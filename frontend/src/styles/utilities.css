@@ -1,0 +1,90 @@
+/* styles/utilities.css */
+/* Flex */
+.flex { display: flex; }
+.flexCol { flex-direction: column; }
+.flexRow { flex-direction: row; }
+.flexWrap { flex-wrap: wrap; }
+.flexNowrap { flex-wrap: nowrap; }
+.flex1 { flex: 1; }
+.flexAuto { flex: auto; }
+.flexNone { flex: none; }
+
+.justifyStart { justify-content: flex-start; }
+.justifyEnd { justify-content: flex-end; }
+.justifyCenter { justify-content: center; }
+.justifyBetween { justify-content: space-between; }
+.justifyAround { justify-content: space-around; }
+.justifyEvenly { justify-content: space-evenly; }
+
+.itemsStart { align-items: flex-start; }
+.itemsEnd { align-items: flex-end; }
+.itemsCenter { align-items: center; }
+.itemsBaseline { align-items: baseline; }
+.itemsStretch { align-items: stretch; }
+
+/* Grid */
+.grid { display: grid; }
+.gridCols1 { grid-template-columns: repeat(1, minmax(0, 1fr)); }
+.gridCols2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.gridCols3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.gridCols4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+
+/* Отступы */
+.m0 { margin: 0; }
+.mt1 { margin-top: var(--spacing-xs); }
+.mt2 { margin-top: var(--spacing-sm); }
+.mt3 { margin-top: var(--spacing-md); }
+.mt4 { margin-top: var(--spacing-lg); }
+.mt5 { margin-top: var(--spacing-xl); }
+
+.mb1 { margin-bottom: var(--spacing-xs); }
+.mb2 { margin-bottom: var(--spacing-sm); }
+.mb3 { margin-bottom: var(--spacing-md); }
+.mb4 { margin-bottom: var(--spacing-lg); }
+.mb5 { margin-bottom: var(--spacing-xl); }
+
+.p0 { padding: 0; }
+.p1 { padding: var(--spacing-xs); }
+.p2 { padding: var(--spacing-sm); }
+.p3 { padding: var(--spacing-md); }
+.p4 { padding: var(--spacing-lg); }
+.p5 { padding: var(--spacing-xl); }
+
+/* Видимость */
+.hidden { display: none; }
+.visible { visibility: visible; }
+.invisible { visibility: hidden; }
+
+/* Позиционирование */
+.relative { position: relative; }
+.absolute { position: absolute; }
+.fixed { position: fixed; }
+.sticky { position: sticky; }
+
+/* Ширина и высота */
+.wFull { width: 100%; }
+.wScreen { width: 100vw; }
+.hFull { height: 100%; }
+.hScreen { height: 100vh; }
+.minHScreen { min-height: 100vh; }
+
+/* Тени */
+.shadowSm { box-shadow: var(--shadow-sm); }
+.shadow { box-shadow: var(--shadow); }
+.shadowMd { box-shadow: var(--shadow-md); }
+.shadowLg { box-shadow: var(--shadow-lg); }
+.shadowXl { box-shadow: var(--shadow-xl); }
+.shadowNone { box-shadow: none; }
+
+/* Скругления */
+.roundedSm { border-radius: var(--border-radius-sm); }
+.rounded { border-radius: var(--border-radius); }
+.roundedLg { border-radius: var(--border-radius-lg); }
+.roundedXl { border-radius: var(--border-radius-xl); }
+.roundedFull { border-radius: 9999px; }
+
+/* Overflow */
+.overflowAuto { overflow: auto; }
+.overflowHidden { overflow: hidden; }
+.overflowVisible { overflow: visible; }
+.overflowScroll { overflow: scroll; }
